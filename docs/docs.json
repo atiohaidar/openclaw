@@ -2031,7 +2031,164 @@
                   "id-ID/start/getting-started",
                   "id-ID/start/onboarding-overview",
                   "id-ID/start/wizard",
-                  "id-ID/start/onboarding"
+                  "id-ID/start/onboarding",
+                  "id-ID/start/openclaw"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Konsep",
+            "groups": [
+              {
+                "group": "Dasar-dasar",
+                "pages": [
+                  "id-ID/concepts/features",
+                  "id-ID/concepts/architecture"
+                ]
+              },
+              {
+                "group": "Agen",
+                "pages": [
+                  "id-ID/concepts/agent",
+                  "id-ID/concepts/agent-loop",
+                  "id-ID/concepts/system-prompt"
+                ]
+              },
+              {
+                "group": "Konteks & Memori",
+                "pages": [
+                  "id-ID/concepts/context",
+                  "id-ID/concepts/agent-workspace"
+                ]
+              },
+              {
+                "group": "Kredensial",
+                "pages": [
+                  "id-ID/concepts/oauth"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Instal",
+            "groups": [
+              {
+                "group": "Metode Instalasi",
+                "pages": [
+                  "id-ID/install/index",
+                  "id-ID/install/node",
+                  "id-ID/install/docker"
+                ]
+              },
+              {
+                "group": "Maintenance",
+                "pages": [
+                  "id-ID/install/updating",
+                  "id-ID/install/uninstall"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Alat",
+            "groups": [
+              {
+                "group": "Ringkasan",
+                "pages": [
+                  "id-ID/tools/index"
+                ]
+              },
+              {
+                "group": "Alat bawaan",
+                "pages": [
+                  "id-ID/tools/lobster",
+                  "id-ID/tools/llm-task",
+                  "id-ID/tools/exec",
+                  "id-ID/tools/web",
+                  "id-ID/tools/apply-patch",
+                  "id-ID/tools/elevated",
+                  "id-ID/tools/thinking",
+                  "id-ID/tools/reactions",
+                  "id-ID/tools/firecrawl",
+                  "id-ID/tools/loop-detection"
+                ]
+              },
+              {
+                "group": "Browser",
+                "pages": [
+                  "id-ID/tools/browser",
+                  "id-ID/tools/browser-login",
+                  "id-ID/tools/chrome-extension",
+                  "id-ID/tools/browser-linux-troubleshooting"
+                ]
+              },
+              {
+                "group": "Koordinasi agen",
+                "pages": [
+                  "id-ID/tools/agent-send",
+                  "id-ID/tools/subagents",
+                  "id-ID/tools/multi-agent-sandbox-tools"
+                ]
+              },
+              {
+                "group": "Skill",
+                "pages": [
+                  "id-ID/tools/slash-commands",
+                  "id-ID/tools/skills",
+                  "id-ID/tools/skills-config",
+                  "id-ID/tools/clawhub",
+                  "id-ID/tools/plugin",
+                  "id-ID/tools/creating-skills",
+                  "id-ID/tools/exec-approvals"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Saluran",
+            "groups": [
+              {
+                "group": "Ringkasan",
+                "pages": [
+                  "id-ID/channels/index"
+                ]
+              },
+              {
+                "group": "Platform pesan",
+                "pages": [
+                  "id-ID/channels/whatsapp",
+                  "id-ID/channels/telegram",
+                  "id-ID/channels/discord"
+                ]
+              },
+              {
+                "group": "Konfigurasi",
+                "pages": [
+                  "id-ID/channels/pairing",
+                  "id-ID/channels/groups"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Gateway",
+            "groups": [
+              {
+                "group": "Layanan",
+                "pages": [
+                  "id-ID/gateway/index",
+                  "id-ID/gateway/configuration",
+                  "id-ID/gateway/configuration-reference",
+                  "id-ID/gateway/authentication",
+                  "id-ID/gateway/sandboxing"
+                ]
+              },
+              {
+                "group": "Operasi",
+                "pages": [
+                  "id-ID/gateway/troubleshooting",
+                  "id-ID/gateway/doctor"
                 ]
               }
             ]

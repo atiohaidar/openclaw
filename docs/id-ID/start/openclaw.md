@@ -1,7 +1,7 @@
 ---
 summary: "Panduan lengkap untuk menjalankan OpenClaw sebagai asisten pribadi dengan peringatan keamanan"
 read_when:
-  - Melakukan onboarding instansi asisten baru
+  - Melakukan onboarding instance asisten baru
   - Meninjau implikasi keamanan/izin
 title: "Pengaturan Asisten Pribadi"
 ---
@@ -22,7 +22,7 @@ Mulailah dengan konservatif:
 
 - Selalu atur `channels.whatsapp.allowFrom` (jangan pernah menjalankan sistem yang terbuka untuk umum di Mac pribadi Anda).
 - Gunakan nomor WhatsApp khusus untuk asisten.
-- Detak jantung (heartbeat) sekarang diatur secara default setiap 30 menit. Nonaktifkan sampai Anda mempercayai pengaturannya dengan mengatur `agents.defaults.heartbeat.every: "0m"`.
+- Heartbeat sekarang diatur secara default setiap 30 menit. Nonaktifkan sampai Anda mempercayai pengaturannya dengan mengatur `agents.defaults.heartbeat.every: "0m"`.
 
 ## Prasyarat
 
@@ -213,3 +213,5 @@ Log tersimpan di bawah `/tmp/openclaw/` (default: `openclaw-YYYY-MM-DD.log`).
 - Status Windows: [Windows (WSL2)](/id-ID/platforms/windows)
 - Status Linux: [Aplikasi Linux](/id-ID/platforms/linux)
 - Keamanan: [Keamanan](/id-ID/gateway/security)
+
+

@@ -167,7 +167,7 @@ Pemesanan paket makanan sekolah di Inggris secara otomatis melalui ParentPay. Me
 <Card title="Unggah R2 (Kirimkan File Saya)" icon="cloud-arrow-up" href="https://clawhub.com/skills/r2-upload">
   **@julianengel** • `files` `r2` `presigned-urls`
 
-Unggah ke Cloudflare R2/S3 dan buat tautan unduhan pra-tanda tangan (presigned) yang aman. Sangat cocok untuk instansi OpenClaw jarak jauh.
+Unggah ke Cloudflare R2/S3 dan buat tautan unduhan pra-tanda tangan (presigned) yang aman. Sangat cocok untuk instance OpenClaw jarak jauh.
 </Card>
 
 <Card title="Aplikasi iOS melalui Telegram" icon="mobile" href="#">
@@ -414,3 +414,5 @@ Punya sesuatu untuk dibagikan? Kami akan senang menampilkannya!
     Kami akan menambahkan proyek-proyek yang menonjol ke halaman ini
   </Step>
 </Steps>
+
+

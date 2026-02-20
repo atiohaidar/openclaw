@@ -132,7 +132,7 @@ Buka Control UI di browser setelah Gateway berjalan.
 Konfigurasi disimpan di `~/.openclaw/openclaw.json`.
 
 - Jika Anda **tidak melakukan apa-apa**, OpenClaw menggunakan binary Pi bawaan dalam mode RPC dengan sesi per-pengirim.
-- Jika Anda ingin membatasinya, mulailah dengan `channels.whatsapp.allowFrom` dan (untuk grup) aturan penyebutan (mention).
+- Jika Anda ingin membatasinya, mulailah dengan `channels.whatsapp.allowFrom` dan (untuk grup) aturan mention.
 
 Contoh:
 
@@ -154,13 +154,13 @@ Contoh:
   <Card title="Hub Dokumentasi" href="/start/hubs" icon="book-open">
     Semua dokumen dan panduan, disusun berdasarkan kasus penggunaan.
   </Card>
-  <Card title="Konfigurasi" href="/gateway/configuration" icon="settings">
+  <Card title="Konfigurasi" href="/id-ID/gateway/configuration" icon="settings">
     Pengaturan inti Gateway, token, dan konfigurasi penyedia.
   </Card>
-  <Card title="Akses Jarak Jauh" href="/gateway/remote" icon="globe">
+  <Card title="Akses Jarak Jauh" href="/id-ID/gateway/remote" icon="globe">
     Pola akses SSH dan tailnet.
   </Card>
-  <Card title="Saluran" href="/channels/telegram" icon="message-square">
+  <Card title="Saluran" href="/id-ID/channels/telegram" icon="message-square">
     Setup spesifik saluran untuk WhatsApp, Telegram, Discord, dan lainnya.
   </Card>
   <Card title="Node" href="/nodes" icon="smartphone">
@@ -174,16 +174,16 @@ Contoh:
 ## Pelajari lebih lanjut
 
 <Columns>
-  <Card title="Daftar fitur lengkap" href="/concepts/features" icon="list">
+  <Card title="Daftar fitur lengkap" href="/id-ID/concepts/features" icon="list">
     Kemampuan lengkap saluran, perutean, dan media.
   </Card>
   <Card title="Perutean multi-agen" href="/concepts/multi-agent" icon="route">
     Isolasi ruang kerja dan sesi per agen.
   </Card>
-  <Card title="Keamanan" href="/gateway/security" icon="shield">
+  <Card title="Keamanan" href="/id-ID/gateway/security" icon="shield">
     Token, daftar izinkan (allowlist), dan kontrol keamanan.
   </Card>
-  <Card title="Pemecahan Masalah" href="/gateway/troubleshooting" icon="wrench">
+  <Card title="Pemecahan Masalah" href="/id-ID/gateway/troubleshooting" icon="wrench">
     Diagnostik Gateway dan kesalahan umum.
   </Card>
   <Card title="Tentang dan Kredit" href="/reference/credits" icon="info">

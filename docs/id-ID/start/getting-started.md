@@ -48,7 +48,7 @@ Periksa versi Node Anda dengan `node --version` jika Anda tidak yakin.
     </Tabs>
 
     <Note>
-    Metode instalasi lain dan persyaratannya: [Instal](/install).
+    Metode instalasi lain dan persyaratannya: [Instal](/id-ID/install/index).
     </Note>
 
   </Step>
@@ -130,6 +130,8 @@ Referensi variabel lingkungan lengkap: [Variabel Lingkungan](/help/environment).
 
 ## Langkah berikutnya
 
-- Keamanan DM dan persetujuan: [Pairing](/id-ID/channels/pairing)
-- Hubungkan lebih banyak saluran: [Saluran](/id-ID/channels)
-- Alur kerja tingkat lanjut dan dari sumber (source): [Setup](/id-ID/start/setup)
+- Keamanan DM dan Pairing: [Pairing](/channels/pairing)
+- Hubungkan lebih banyak saluran: [Saluran](/channels/index)
+- Alur kerja tingkat lanjut dan dari sumber (source): [Setup](/start/setup)
+
+

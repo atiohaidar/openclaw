@@ -108,3 +108,5 @@ API RPC, dan daftar lengkap kolom konfigurasi yang ditulis wizard, lihat
 - Ringkasan onboarding: [Ringkasan Onboarding](/id-ID/start/onboarding-overview)
 - Onboarding aplikasi macOS: [Onboarding](/id-ID/start/onboarding)
 - Ritual pertama kali agen: [Bootstrapping Agen](/id-ID/start/bootstrapping)
+
+

@@ -82,5 +82,21 @@
     {
         "source": "environment variables",
         "target": "Variabel Lingkungan"
+    },
+    {
+        "source": "heartbeat",
+        "target": "Heartbeat"
+    },
+    {
+        "source": "instance",
+        "target": "Instance"
+    },
+    {
+        "source": "mention",
+        "target": "Mention"
+    },
+    {
+        "source": "pairing",
+        "target": "Pairing"
     }
 ]
